@@ -14,7 +14,7 @@ A comprehensive Gemini CLI Extension designed to streamline and automate the Ban
 ## Key Features
 - **Team-Specific Skills:** Specialized modules for Product Management, Design, Business Analysis (BSG), Architecture, Engineering, and QA, each aware of their unique responsibilities.
 - **Artifact Generation:** Automated drafting of key SDLC documents (BRDs, Functional Specs, Solution Architecture, Test Cases) based on project context.
-- **Compliance & Regulatory Guardrails:** Integrated checks to ensure all requirements meet banking standards and regulations from the start.
+- **Compliance & Regulatory Guardrails:** Integrated checks and checklists to ensure all requirements and artifacts meet RBI (Reserve Bank of India) standards and regulations from the start.
 - **Hybrid Invocation:** Flexible use via stand-alone CLI commands or as seamless hooks within the `conductor:implement` phase.
 
 ## Operational Model
