@@ -18,5 +18,5 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 ---
 
-- [ ] **Track: Update Skill Files with RBI Guidelines**
+- [x] **Track: Update Skill Files with RBI Guidelines**
 *Link: [./tracks/update_skills_rbi_20260401/](./tracks/update_skills_rbi_20260401/)*
