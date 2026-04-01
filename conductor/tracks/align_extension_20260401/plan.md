@@ -5,10 +5,10 @@
     - [x] Write failing test to check for `gemini-extension.json`.
     - [x] Create `gemini-extension.json` with basic metadata.
     - [x] Verify tests pass.
-- [ ] **Task: Register Context File**
-    - [ ] Write failing test to check if `GEMINI.md` is registered in `gemini-extension.json`.
-    - [ ] Update `gemini-extension.json` to include `"contextFileName": "GEMINI.md"`.
-    - [ ] Verify tests pass.
+- [x] **Task: Register Context File** [24b8f78]
+    - [x] Write failing test to check if `GEMINI.md` is registered in `gemini-extension.json`.
+    - [x] Update `gemini-extension.json` to include `"contextFileName": "GEMINI.md"`.
+    - [x] Verify tests pass.
 - [ ] **Task: Conductor - User Manual Verification 'Manifest and Context Integration' (Protocol in workflow.md)**
 
 ## Phase 2: Skill Manifests Alignment
