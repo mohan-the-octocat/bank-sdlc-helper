@@ -22,7 +22,7 @@
     - [x] Verify tests pass.
 - [x] **Task: Conductor - User Manual Verification 'Architecture and Engineering Commands' (Protocol in workflow.md)**
 
-## Phase 3: QA and Release Commands
+## Phase 3: QA and Release Commands [checkpoint: 008e63d]
 - [x] **Task: Implement QA Test Generation Command** [90ef1dc]
     - [x] Write failing tests for `commands/qa/generate-tests.toml`.
     - [x] Create `commands/qa/generate-tests.toml` with RBI-aware prompt logic.
@@ -31,7 +31,7 @@
     - [x] Write failing tests for `commands/release/check-exit-strategy.toml`.
     - [x] Create `commands/release/check-exit-strategy.toml` with RBI-aware prompt logic.
     - [x] Verify tests pass.
-- [ ] **Task: Conductor - User Manual Verification 'QA and Release Commands' (Protocol in workflow.md)**
+- [x] **Task: Conductor - User Manual Verification 'QA and Release Commands' (Protocol in workflow.md)**
 
 
 ## Phase 4: Manifest Registration and Integration
