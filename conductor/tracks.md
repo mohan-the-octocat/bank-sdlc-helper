@@ -10,3 +10,8 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 - [x] **Track: Validate and Align Extension Structure**
 *Link: [./tracks/align_extension_20260401/](./tracks/align_extension_20260401/)*
+
+---
+
+- [ ] **Track: Understand RBI Guidelines around Application Development**
+*Link: [./tracks/rbi_guidelines_20260401/](./tracks/rbi_guidelines_20260401/)*
