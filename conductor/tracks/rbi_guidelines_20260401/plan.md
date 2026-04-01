@@ -1,13 +1,13 @@
 # Implementation Plan - Understand RBI Guidelines around Application Development
 
-## Phase 1: Regulatory Research and Compilation
+## Phase 1: Regulatory Research and Compilation [checkpoint: d8e66f8]
 - [x] **Task: Research Key RBI Circulars** [a11d0ff]
     - [x] Identify and summarize relevant mandates for Cyber Security.
     - [x] Identify and summarize relevant mandates for Digital Banking.
     - [x] Identify and summarize relevant mandates for Outsourcing and Cloud.
 - [x] **Task: Compile Requirement Database** [a11d0ff]
     - [x] Create a structured document/file containing all compiled requirements with source references.
-- [ ] **Task: Conductor - User Manual Verification 'Regulatory Research and Compilation' (Protocol in workflow.md)**
+- [x] **Task: Conductor - User Manual Verification 'Regulatory Research and Compilation' (Protocol in workflow.md)**
 
 ## Phase 2: Team-Specific Skill Integration
 - [ ] **Task: Update Product Team Skill**
