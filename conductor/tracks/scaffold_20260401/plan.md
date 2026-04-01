@@ -1,9 +1,9 @@
 # Implementation Plan - Scaffold Extension and Define Core Skill Structure
 
 ## Phase 1: Project Scaffolding
-- [ ] **Task: Initialize NPM Package**
-    - [ ] Create `package.json` with extension details.
-    - [ ] Configure dependencies and scripts.
+- [x] **Task: Initialize NPM Package** [06984c9]
+    - [x] Create `package.json` with extension details.
+    - [x] Configure dependencies and scripts.
 - [ ] **Task: Create Project Context File**
     - [ ] Draft and save `GEMINI.md`.
 - [ ] **Task: Conductor - User Manual Verification 'Project Scaffolding' (Protocol in workflow.md)**
