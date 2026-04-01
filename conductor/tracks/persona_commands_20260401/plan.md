@@ -5,10 +5,10 @@
     - [x] Write failing tests for `bank-sdlc:product:draft-brd`.
     - [x] Implement command logic using Product skill.
     - [x] Verify tests pass.
-- [~] **Task: Implement BSG Compliance Command**
-    - [ ] Write failing tests for `bank-sdlc:bsg:check-compliance`.
-    - [ ] Implement command logic using BSG skill and RBI database.
-    - [ ] Verify tests pass.
+- [x] **Task: Implement BSG Compliance Command** [5191bed]
+    - [x] Write failing tests for `bank-sdlc:bsg:check-compliance`.
+    - [x] Implement command logic using BSG skill and RBI database.
+    - [x] Verify tests pass.
 - [ ] **Task: Conductor - User Manual Verification 'Product and BSG Commands' (Protocol in workflow.md)**
 
 ## Phase 2: Architecture and Engineering Commands
