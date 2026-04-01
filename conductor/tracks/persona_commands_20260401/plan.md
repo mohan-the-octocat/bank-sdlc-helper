@@ -11,7 +11,7 @@
     - [x] Verify tests pass.
 - [x] **Task: Conductor - User Manual Verification 'Product and BSG Commands' (Protocol in workflow.md)**
 
-## Phase 2: Architecture and Engineering Commands
+## Phase 2: Architecture and Engineering Commands [checkpoint: a32326b]
 - [x] **Task: Implement Architecture Solution Command** [db9adef]
     - [x] Write failing tests for `commands/arch/propose-solution.toml`.
     - [x] Create `commands/arch/propose-solution.toml` with RBI-aware prompt logic.
@@ -20,7 +20,7 @@
     - [x] Write failing tests for `commands/eng/review-security.toml`.
     - [x] Create `commands/eng/review-security.toml` with RBI-aware prompt logic.
     - [x] Verify tests pass.
-- [ ] **Task: Conductor - User Manual Verification 'Architecture and Engineering Commands' (Protocol in workflow.md)**
+- [x] **Task: Conductor - User Manual Verification 'Architecture and Engineering Commands' (Protocol in workflow.md)**
 
 ## Phase 3: QA and Release Commands
 - [ ] **Task: Implement QA Test Generation Command**
