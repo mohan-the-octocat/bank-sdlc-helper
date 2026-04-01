@@ -1,6 +1,6 @@
 # Implementation Plan - Persona-Specific CLI Commands
 
-## Phase 1: Product and BSG Commands
+## Phase 1: Product and BSG Commands [checkpoint: a354de1]
 - [x] **Task: Implement Product BRD Command** [368a59e]
     - [x] Write failing tests for `commands/product/draft-brd.toml`.
     - [x] Create `commands/product/draft-brd.toml` with RBI-aware prompt logic.
@@ -9,7 +9,7 @@
     - [x] Write failing tests for `commands/bsg/check-compliance.toml`.
     - [x] Create `commands/bsg/check-compliance.toml` with RBI-aware prompt logic.
     - [x] Verify tests pass.
-- [ ] **Task: Conductor - User Manual Verification 'Product and BSG Commands' (Protocol in workflow.md)**
+- [x] **Task: Conductor - User Manual Verification 'Product and BSG Commands' (Protocol in workflow.md)**
 
 ## Phase 2: Architecture and Engineering Commands
 - [ ] **Task: Implement Architecture Solution Command**
