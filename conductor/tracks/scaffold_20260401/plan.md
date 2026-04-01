@@ -12,6 +12,6 @@
 - [x] **Task: Define Skill Directory Structure** [54cc9ba]
     - [x] Create `skills/` folder.
     - [x] Create subfolders for each team (Product, Design, BSG, Architecture, Engineering, QA).
-- [ ] **Task: Initialize Skill Manifests**
-    - [ ] Create initial `SKILL.md` files for all team skills.
+- [x] **Task: Initialize Skill Manifests** [561100b]
+    - [x] Create initial `SKILL.md` files for all team skills.
 - [ ] **Task: Conductor - User Manual Verification 'Modular Skills Setup' (Protocol in workflow.md)**
