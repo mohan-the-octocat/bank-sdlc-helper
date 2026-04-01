@@ -12,14 +12,14 @@
 - [x] **Task: Conductor - User Manual Verification 'Business Skill Updates' (Protocol in workflow.md)**
 
 ## Phase 2: Validation Skill Updates
-- [ ] **Task: Update QA/Testing Team Skill**
-    - [ ] Write failing test to check for Cyber Security/IT Governance mandates in `skills/qa/SKILL.md`.
-    - [ ] Integrate RBI-specific testing mandates.
-    - [ ] Verify tests pass.
-- [ ] **Task: Update Release Engineering Team Skill**
-    - [ ] Write failing test to check for Outsourcing/Cloud mandates in `skills/release-engineering/SKILL.md`.
-    - [ ] Integrate RBI-specific release mandates.
-    - [ ] Verify tests pass.
+- [x] **Task: Update QA/Testing Team Skill** [67d8435]
+    - [x] Write failing test to check for Cyber Security/IT Governance mandates in `skills/qa/SKILL.md`.
+    - [x] Integrate RBI-specific testing mandates.
+    - [x] Verify tests pass.
+- [x] **Task: Update Release Engineering Team Skill** [1ddb7a2]
+    - [x] Write failing test to check for Outsourcing/Cloud mandates in `skills/release-engineering/SKILL.md`.
+    - [x] Integrate RBI-specific release mandates.
+    - [x] Verify tests pass.
 - [ ] **Task: Conductor - User Manual Verification 'Validation Skill Updates' (Protocol in workflow.md)**
 
 ## Phase 3: Cross-Skill Consistency Check
