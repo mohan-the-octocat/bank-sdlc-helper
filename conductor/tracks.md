@@ -4,5 +4,5 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 ---
 
-- [ ] **Track: Scaffold Extension and Define Core Skill Structure**
+- [~] **Track: Scaffold Extension and Define Core Skill Structure**
   *Link: [./tracks/scaffold_20260401/](./tracks/scaffold_20260401/)*
