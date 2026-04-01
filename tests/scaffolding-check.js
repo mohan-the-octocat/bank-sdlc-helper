@@ -34,6 +34,9 @@ try {
   teams.forEach(team => {
     const teamPath = path.join(skillsPath, team);
     assert(fs.existsSync(teamPath), `Team directory '${team}' should exist`);
+
+    const skillMdPath = path.join(teamPath, 'SKILL.md');
+    assert(fs.existsSync(skillMdPath), `Skill manifest '${team}/SKILL.md' should exist`);
   });
 
   console.log('All scaffolding tests passed!');
