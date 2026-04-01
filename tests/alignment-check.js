@@ -20,6 +20,9 @@ try {
   assert(manifest.name === 'bank-sdlc-helper', `Expected name 'bank-sdlc-helper', got '${manifest.name}'`);
   assert(manifest.version === '0.1.0', `Expected version '0.1.0', got '${manifest.version}'`);
 
+  // Test 3: contextFileName should be GEMINI.md
+  assert(manifest.contextFileName === 'GEMINI.md', `Expected contextFileName 'GEMINI.md', got '${manifest.contextFileName}'`);
+
   console.log('All alignment tests passed!');
 } catch (error) {
   console.error('Test FAILED:', error.message);
