@@ -11,12 +11,12 @@
     - [x] Verify tests pass.
 - [x] **Task: Conductor - User Manual Verification 'Manifest and Context Integration' (Protocol in workflow.md)**
 
-## Phase 2: Skill Manifests Alignment
+## Phase 2: Skill Manifests Alignment [checkpoint: 67bb1b6]
 - [x] **Task: Update Skill Manifests with Frontmatter** [7b1456a]
     - [x] Write failing test to verify YAML frontmatter in `skills/*/SKILL.md`.
     - [x] Update all `SKILL.md` files (Product, Design, BSG, Architecture, Engineering, QA, Release Engineering) with required `name` and `description` frontmatter.
     - [x] Verify tests pass.
-- [ ] **Task: Conductor - User Manual Verification 'Skill Manifests Alignment' (Protocol in workflow.md)**
+- [x] **Task: Conductor - User Manual Verification 'Skill Manifests Alignment' (Protocol in workflow.md)**
 
 ## Phase 3: Directory Scaffolding
 - [ ] **Task: Create Placeholder Directories**
