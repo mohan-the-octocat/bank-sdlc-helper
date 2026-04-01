@@ -21,6 +21,12 @@ try {
   assert(packageJson.version === '0.1.0', `Expected version '0.1.0', got '${packageJson.version}'`);
   assert(packageJson.description.includes('Bank SDLC'), `Description should contain 'Bank SDLC', got '${packageJson.description}'`);
 
+  // Test 3: GEMINI.md should exist
+  const geminiMdPath = path.join(__dirname, '..', 'GEMINI.md');
+  assert(fs.existsSync(geminiMdPath), 'GEMINI.md should exist');
+  const geminiMd = fs.readFileSync(geminiMdPath, 'utf8');
+  assert(geminiMd.includes('# Bank SDLC Helper Context'), 'GEMINI.md should have correct header');
+
   console.log('All scaffolding tests passed!');
 } catch (error) {
   console.error('Test FAILED:', error.message);
