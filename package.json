@@ -1,0 +1,17 @@
+{
+  "name": "bank-sdlc-helper",
+  "version": "0.1.0",
+  "description": "A Gemini CLI Extension for automating Bank SDLC workflows.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/scaffolding-check.js"
+  },
+  "keywords": [
+    "gemini",
+    "extension",
+    "sdlc",
+    "bank"
+  ],
+  "author": "",
+  "license": "ISC"
+}
