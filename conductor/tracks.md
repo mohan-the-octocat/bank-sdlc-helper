@@ -8,5 +8,5 @@ This file tracks all major tracks for the project. Each track has its own detail
   *Link: [./tracks/scaffold_20260401/](./tracks/scaffold_20260401/)*
 ---
 
-- [ ] **Track: Validate and Align Extension Structure**
+- [~] **Track: Validate and Align Extension Structure**
 *Link: [./tracks/align_extension_20260401/](./tracks/align_extension_20260401/)*
