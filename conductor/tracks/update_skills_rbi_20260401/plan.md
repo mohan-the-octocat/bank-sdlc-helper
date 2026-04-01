@@ -5,10 +5,10 @@
     - [x] Write failing test to check for Digital Banking mandates in `skills/design/SKILL.md`.
     - [x] Integrate RBI-specific design mandates.
     - [x] Verify tests pass.
-- [ ] **Task: Update BSG Team Skill**
-    - [ ] Write failing test to check for Digital Banking mandates in `skills/bsg/SKILL.md`.
-    - [ ] Integrate RBI-specific business analysis mandates.
-    - [ ] Verify tests pass.
+- [x] **Task: Update BSG Team Skill** [fcefdc6]
+    - [x] Write failing test to check for Digital Banking mandates in `skills/bsg/SKILL.md`.
+    - [x] Integrate RBI-specific business analysis mandates.
+    - [x] Verify tests pass.
 - [ ] **Task: Conductor - User Manual Verification 'Business Skill Updates' (Protocol in workflow.md)**
 
 ## Phase 2: Validation Skill Updates
