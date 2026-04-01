@@ -1,3 +1,8 @@
+---
+name: release-engineering-team
+description: Expert guidance for Release Engineers to manage the deployment and release of banking software.
+---
+
 # Skill: Release Engineering Team
 
 Expert guidance for Release Engineers to manage the deployment and release of banking software.

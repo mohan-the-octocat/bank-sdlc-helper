@@ -1,3 +1,8 @@
+---
+name: product-team
+description: Expert guidance for Product Managers to capture requirements and manage the product roadmap in a banking context.
+---
+
 # Skill: Product Team
 
 Expert guidance for Product Managers to capture requirements and manage the product roadmap in a banking context.

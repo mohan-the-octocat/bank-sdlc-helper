@@ -1,3 +1,8 @@
+---
+name: engineering-team
+description: Expert guidance for Engineers to build robust and secure banking applications.
+---
+
 # Skill: Engineering Team
 
 Expert guidance for Engineers to build robust and secure banking applications.

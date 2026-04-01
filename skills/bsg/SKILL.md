@@ -1,3 +1,8 @@
+---
+name: bsg-team
+description: Expert guidance for Business Analysts to bridge the gap between business goals and technical implementation.
+---
+
 # Skill: Business Solution Group (BSG)
 
 Expert guidance for Business Analysts to bridge the gap between business goals and technical implementation.

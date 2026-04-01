@@ -1,3 +1,8 @@
+---
+name: qa-team
+description: Expert guidance for Testers to ensure high-quality and defect-free banking software.
+---
+
 # Skill: QA/Testing Team
 
 Expert guidance for Testers to ensure high-quality and defect-free banking software.

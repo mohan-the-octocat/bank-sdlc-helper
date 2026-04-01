@@ -1,3 +1,8 @@
+---
+name: design-team
+description: Expert guidance for Designers to create user-centric and compliant interfaces for banking software.
+---
+
 # Skill: Design Team
 
 Expert guidance for Designers to create user-centric and compliant interfaces for banking software.

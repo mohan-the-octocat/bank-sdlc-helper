@@ -1,3 +1,8 @@
+---
+name: architecture-team
+description: Expert guidance for Technical Architects to design robust and scalable banking systems.
+---
+
 # Skill: Architecture Team
 
 Expert guidance for Technical Architects to design robust and scalable banking systems.

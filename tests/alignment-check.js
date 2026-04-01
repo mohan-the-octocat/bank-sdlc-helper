@@ -23,6 +23,24 @@ try {
   // Test 3: contextFileName should be GEMINI.md
   assert(manifest.contextFileName === 'GEMINI.md', `Expected contextFileName 'GEMINI.md', got '${manifest.contextFileName}'`);
 
+  // Test 4: All SKILL.md should have frontmatter
+  const skillsPath = path.join(__dirname, '..', 'skills');
+  const teams = fs.readdirSync(skillsPath).filter(f => fs.statSync(path.join(skillsPath, f)).isDirectory());
+  
+  teams.forEach(team => {
+    const skillPath = path.join(skillsPath, team, 'SKILL.md');
+    if (fs.existsSync(skillPath)) {
+      const content = fs.readFileSync(skillPath, 'utf8');
+      const lines = content.split('\n');
+      assert(lines[0] === '---', `Skill '${team}/SKILL.md' should start with '---'`);
+      const closingIndex = lines.indexOf('---', 1);
+      assert(closingIndex > 0, `Skill '${team}/SKILL.md' should have a closing '---'`);
+      const frontmatter = lines.slice(1, closingIndex).join('\n');
+      assert(frontmatter.includes('name:'), `Skill '${team}/SKILL.md' frontmatter should include 'name:'`);
+      assert(frontmatter.includes('description:'), `Skill '${team}/SKILL.md' frontmatter should include 'description:'`);
+    }
+  });
+
   console.log('All alignment tests passed!');
 } catch (error) {
   console.error('Test FAILED:', error.message);
