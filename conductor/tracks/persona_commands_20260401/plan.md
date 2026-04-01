@@ -34,9 +34,9 @@
 - [x] **Task: Conductor - User Manual Verification 'QA and Release Commands' (Protocol in workflow.md)**
 
 
-## Phase 4: Manifest Registration and Integration
+## Phase 4: Manifest Registration and Integration [checkpoint: 377379a]
 - [x] **Task: Register Commands in Manifest** [66ffaf3]
     - [x] Update `gemini-extension.json` with all new commands.
 - [x] **Task: Final Integration Validation** [66ffaf3]
     - [x] Run overall test suite to ensure all commands are correctly exposed.
-- [ ] **Task: Conductor - User Manual Verification 'Manifest Registration and Integration' (Protocol in workflow.md)**
+- [x] **Task: Conductor - User Manual Verification 'Manifest Registration and Integration' (Protocol in workflow.md)**
