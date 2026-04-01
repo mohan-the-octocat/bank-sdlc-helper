@@ -1,5 +1,13 @@
 {
   "name": "bank-sdlc-helper",
   "version": "0.1.0",
-  "contextFileName": "GEMINI.md"
+  "contextFileName": "GEMINI.md",
+  "commands": {
+    "product:draft-brd": "commands/product/draft-brd.toml",
+    "bsg:check-compliance": "commands/bsg/check-compliance.toml",
+    "arch:propose-solution": "commands/arch/propose-solution.toml",
+    "eng:review-security": "commands/eng/review-security.toml",
+    "qa:generate-tests": "commands/qa/generate-tests.toml",
+    "release:check-exit-strategy": "commands/release/check-exit-strategy.toml"
+  }
 }
