@@ -14,10 +14,10 @@
     - [x] Write failing test to check for RBI compliance checklist in `skills/product/SKILL.md`.
     - [x] Integrate RBI-specific mandates into `skills/product/SKILL.md`.
     - [x] Verify tests pass.
-- [~] **Task: Update Architecture and Engineering Skills**
-    - [ ] Write failing test to check for security and data residency mandates in `skills/architecture/SKILL.md` and `skills/engineering/SKILL.md`.
-    - [ ] Integrate RBI-specific mandates into these skill files.
-    - [ ] Verify tests pass.
+- [x] **Task: Update Architecture and Engineering Skills** [70d7a71]
+    - [x] Write failing test to check for security and data residency mandates in `skills/architecture/SKILL.md` and `skills/engineering/SKILL.md`.
+    - [x] Integrate RBI-specific mandates into these skill files.
+    - [x] Verify tests pass.
 - [ ] **Task: Conductor - User Manual Verification 'Team-Specific Skill Integration' (Protocol in workflow.md)**
 
 ## Phase 3: Deliverable Generation
