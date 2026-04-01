@@ -23,14 +23,14 @@
 - [x] **Task: Conductor - User Manual Verification 'Architecture and Engineering Commands' (Protocol in workflow.md)**
 
 ## Phase 3: QA and Release Commands
-- [ ] **Task: Implement QA Test Generation Command**
-    - [ ] Write failing tests for `commands/qa/generate-tests.toml`.
-    - [ ] Create `commands/qa/generate-tests.toml` with RBI-aware prompt logic.
-    - [ ] Verify tests pass.
-- [ ] **Task: Implement Release Exit Strategy Command**
-    - [ ] Write failing tests for `commands/release/check-exit-strategy.toml`.
-    - [ ] Create `commands/release/check-exit-strategy.toml` with RBI-aware prompt logic.
-    - [ ] Verify tests pass.
+- [x] **Task: Implement QA Test Generation Command** [90ef1dc]
+    - [x] Write failing tests for `commands/qa/generate-tests.toml`.
+    - [x] Create `commands/qa/generate-tests.toml` with RBI-aware prompt logic.
+    - [x] Verify tests pass.
+- [x] **Task: Implement Release Exit Strategy Command** [90ef1dc]
+    - [x] Write failing tests for `commands/release/check-exit-strategy.toml`.
+    - [x] Create `commands/release/check-exit-strategy.toml` with RBI-aware prompt logic.
+    - [x] Verify tests pass.
 - [ ] **Task: Conductor - User Manual Verification 'QA and Release Commands' (Protocol in workflow.md)**
 
 
