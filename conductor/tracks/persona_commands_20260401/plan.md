@@ -5,10 +5,10 @@
     - [x] Write failing tests for `commands/product/draft-brd.toml`.
     - [x] Create `commands/product/draft-brd.toml` with RBI-aware prompt logic.
     - [x] Verify tests pass.
-- [~] **Task: Implement BSG Compliance Command**
-    - [ ] Write failing tests for `commands/bsg/check-compliance.toml`.
-    - [ ] Create `commands/bsg/check-compliance.toml` with RBI-aware prompt logic.
-    - [ ] Verify tests pass.
+- [x] **Task: Implement BSG Compliance Command** [8c49014]
+    - [x] Write failing tests for `commands/bsg/check-compliance.toml`.
+    - [x] Create `commands/bsg/check-compliance.toml` with RBI-aware prompt logic.
+    - [x] Verify tests pass.
 - [ ] **Task: Conductor - User Manual Verification 'Product and BSG Commands' (Protocol in workflow.md)**
 
 ## Phase 2: Architecture and Engineering Commands
