@@ -27,6 +27,15 @@ try {
   const geminiMd = fs.readFileSync(geminiMdPath, 'utf8');
   assert(geminiMd.includes('# Bank SDLC Helper Context'), 'GEMINI.md should have correct header');
 
+  // Test 4: Skills directory structure should exist
+  const teams = ['product', 'design', 'bsg', 'architecture', 'engineering', 'qa', 'release-engineering'];
+  const skillsPath = path.join(__dirname, '..', 'skills');
+  assert(fs.existsSync(skillsPath), 'skills directory should exist');
+  teams.forEach(team => {
+    const teamPath = path.join(skillsPath, team);
+    assert(fs.existsSync(teamPath), `Team directory '${team}' should exist`);
+  });
+
   console.log('All scaffolding tests passed!');
 } catch (error) {
   console.error('Test FAILED:', error.message);
