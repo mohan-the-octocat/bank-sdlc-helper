@@ -16,3 +16,8 @@ Expert guidance for Business Analysts to bridge the gap between business goals a
 - **Functional Completeness:** Every functional spec must cover all scenarios in the parent BRD.
 - **In-Sprint Testing:** Integrate early testing to ensure requirements are met during the development phase.
 - **Validation:** Always verify that functional specs are technically feasible with the architecture team.
+
+## RBI Compliance
+- **Requirement Mapping:** Every Functional Specification must explicitly map to the regulatory requirements identified in the BRD (RBI IT Governance Mandate).
+- **Functional Scenarios:** User stories and use cases must include specific "negative scenarios" related to failed authentication and unauthorized access attempts.
+- **UAT for Compliance:** The UAT plan must include dedicated test cases for verifying regulatory mandates (e.g., data localization, 2FA workflows).
