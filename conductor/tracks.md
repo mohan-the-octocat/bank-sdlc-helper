@@ -20,3 +20,8 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 - [x] **Track: Update Skill Files with RBI Guidelines**
 *Link: [./tracks/update_skills_rbi_20260401/](./tracks/update_skills_rbi_20260401/)*
+
+---
+
+- [ ] **Track: Persona-Specific CLI Commands**
+*Link: [./tracks/persona_commands_20260401/](./tracks/persona_commands_20260401/)*
