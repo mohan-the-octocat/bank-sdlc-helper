@@ -15,3 +15,8 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 - [x] **Track: Understand RBI Guidelines around Application Development**
 *Link: [./tracks/rbi_guidelines_20260401/](./tracks/rbi_guidelines_20260401/)*
+
+---
+
+- [ ] **Track: Update Skill Files with RBI Guidelines**
+*Link: [./tracks/update_skills_rbi_20260401/](./tracks/update_skills_rbi_20260401/)*
