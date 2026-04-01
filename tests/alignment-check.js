@@ -41,6 +41,14 @@ try {
     }
   });
 
+  // Test 5: Standard directories should exist
+  const requiredDirs = ['commands', 'mcp-servers'];
+  requiredDirs.forEach(dir => {
+    const dirPath = path.join(__dirname, '..', dir);
+    assert(fs.existsSync(dirPath), `Directory '${dir}/' should exist`);
+    assert(fs.statSync(dirPath).isDirectory(), `'${dir}' should be a directory`);
+  });
+
   console.log('All alignment tests passed!');
 } catch (error) {
   console.error('Test FAILED:', error.message);
