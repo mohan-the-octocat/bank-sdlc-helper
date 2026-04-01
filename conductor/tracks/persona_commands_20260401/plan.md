@@ -35,8 +35,8 @@
 
 
 ## Phase 4: Manifest Registration and Integration
-- [ ] **Task: Register Commands in Manifest**
-    - [ ] Update `gemini-extension.json` with all new commands.
-- [ ] **Task: Final Integration Validation**
-    - [ ] Run overall test suite to ensure all commands are correctly exposed.
+- [x] **Task: Register Commands in Manifest** [66ffaf3]
+    - [x] Update `gemini-extension.json` with all new commands.
+- [x] **Task: Final Integration Validation** [66ffaf3]
+    - [x] Run overall test suite to ensure all commands are correctly exposed.
 - [ ] **Task: Conductor - User Manual Verification 'Manifest Registration and Integration' (Protocol in workflow.md)**
