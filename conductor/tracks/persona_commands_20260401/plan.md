@@ -12,11 +12,11 @@
 - [x] **Task: Conductor - User Manual Verification 'Product and BSG Commands' (Protocol in workflow.md)**
 
 ## Phase 2: Architecture and Engineering Commands
-- [ ] **Task: Implement Architecture Solution Command**
-    - [ ] Write failing tests for `bank-sdlc:arch:propose-solution`.
-    - [ ] Implement command logic using Architecture skill.
-    - [ ] Verify tests pass.
-- [ ] **Task: Implement Engineering Security Review Command**
+- [x] **Task: Implement Architecture Solution Command** [75e81c0]
+    - [x] Write failing tests for `bank-sdlc:arch:propose-solution`.
+    - [x] Implement command logic using Architecture skill.
+    - [x] Verify tests pass.
+- [~] **Task: Implement Engineering Security Review Command**
     - [ ] Write failing tests for `bank-sdlc:eng:review-security`.
     - [ ] Implement command logic using Engineering skill.
     - [ ] Verify tests pass.
