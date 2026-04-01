@@ -8,10 +8,10 @@
     - [x] Draft and save `GEMINI.md`.
 - [ ] **Task: Conductor - User Manual Verification 'Project Scaffolding' (Protocol in workflow.md)**
 
-## Phase 2: Modular Skills Setup
+## Phase 2: Modular Skills Setup [checkpoint: 3ef5a1c]
 - [x] **Task: Define Skill Directory Structure** [54cc9ba]
     - [x] Create `skills/` folder.
     - [x] Create subfolders for each team (Product, Design, BSG, Architecture, Engineering, QA).
 - [x] **Task: Initialize Skill Manifests** [561100b]
     - [x] Create initial `SKILL.md` files for all team skills.
-- [ ] **Task: Conductor - User Manual Verification 'Modular Skills Setup' (Protocol in workflow.md)**
+- [x] **Task: Conductor - User Manual Verification 'Modular Skills Setup' (Protocol in workflow.md)**
