@@ -10,11 +10,11 @@
 - [x] **Task: Conductor - User Manual Verification 'Regulatory Research and Compilation' (Protocol in workflow.md)**
 
 ## Phase 2: Team-Specific Skill Integration
-- [ ] **Task: Update Product Team Skill**
-    - [ ] Write failing test to check for RBI compliance checklist in `skills/product/SKILL.md`.
-    - [ ] Integrate RBI-specific mandates into `skills/product/SKILL.md`.
-    - [ ] Verify tests pass.
-- [ ] **Task: Update Architecture and Engineering Skills**
+- [x] **Task: Update Product Team Skill** [63e16e6]
+    - [x] Write failing test to check for RBI compliance checklist in `skills/product/SKILL.md`.
+    - [x] Integrate RBI-specific mandates into `skills/product/SKILL.md`.
+    - [x] Verify tests pass.
+- [~] **Task: Update Architecture and Engineering Skills**
     - [ ] Write failing test to check for security and data residency mandates in `skills/architecture/SKILL.md` and `skills/engineering/SKILL.md`.
     - [ ] Integrate RBI-specific mandates into these skill files.
     - [ ] Verify tests pass.
