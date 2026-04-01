@@ -23,5 +23,5 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 ---
 
-- [ ] **Track: Persona-Specific CLI Commands**
+- [x] **Track: Persona-Specific CLI Commands**
 *Link: [./tracks/persona_commands_20260401/](./tracks/persona_commands_20260401/)*
