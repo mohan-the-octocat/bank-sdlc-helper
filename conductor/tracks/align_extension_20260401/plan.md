@@ -19,10 +19,10 @@
 - [x] **Task: Conductor - User Manual Verification 'Skill Manifests Alignment' (Protocol in workflow.md)**
 
 ## Phase 3: Directory Scaffolding
-- [ ] **Task: Create Placeholder Directories**
-    - [ ] Write failing test to check for `commands/` and `mcp-servers/` directories.
-    - [ ] Create `commands/` and `mcp-servers/` directories.
-    - [ ] Verify tests pass.
+- [x] **Task: Create Placeholder Directories** [81ab5e5]
+    - [x] Write failing test to check for `commands/` and `mcp-servers/` directories.
+    - [x] Create `commands/` and `mcp-servers/` directories.
+    - [x] Verify tests pass.
 - [ ] **Task: Conductor - User Manual Verification 'Directory Scaffolding' (Protocol in workflow.md)**
 
 ## Phase 4: Final Validation
