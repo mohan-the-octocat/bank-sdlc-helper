@@ -1,10 +1,10 @@
 # Implementation Plan - Update Skill Files with RBI Guidelines
 
 ## Phase 1: Business Skill Updates
-- [ ] **Task: Update Design Team Skill**
-    - [ ] Write failing test to check for Digital Banking mandates in `skills/design/SKILL.md`.
-    - [ ] Integrate RBI-specific design mandates.
-    - [ ] Verify tests pass.
+- [x] **Task: Update Design Team Skill** [301b01a]
+    - [x] Write failing test to check for Digital Banking mandates in `skills/design/SKILL.md`.
+    - [x] Integrate RBI-specific design mandates.
+    - [x] Verify tests pass.
 - [ ] **Task: Update BSG Team Skill**
     - [ ] Write failing test to check for Digital Banking mandates in `skills/bsg/SKILL.md`.
     - [ ] Integrate RBI-specific business analysis mandates.
