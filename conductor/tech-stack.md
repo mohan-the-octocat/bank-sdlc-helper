@@ -11,7 +11,7 @@
 
 ## Development & Runtime
 - **Node.js (LTS):** The primary runtime environment for the extension and its associated scripts.
-- **TypeScript:** Recommended for building robust, type-safe CLI commands and MCP servers.
+- **TypeScript & TOML:** TypeScript for building robust, type-safe MCP servers and logic; TOML for defining persona-specific CLI command prompts.
 
 ## Key Files
 - **`package.json`:** Manifest for the extension package.
