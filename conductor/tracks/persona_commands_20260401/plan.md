@@ -1,37 +1,38 @@
 # Implementation Plan - Persona-Specific CLI Commands
 
-## Phase 1: Product and BSG Commands [checkpoint: 2d1162d]
-- [x] **Task: Implement Product BRD Command** [bd675e7]
-    - [x] Write failing tests for `bank-sdlc:product:draft-brd`.
-    - [x] Implement command logic using Product skill.
+## Phase 1: Product and BSG Commands
+- [x] **Task: Implement Product BRD Command** [368a59e]
+    - [x] Write failing tests for `commands/product/draft-brd.toml`.
+    - [x] Create `commands/product/draft-brd.toml` with RBI-aware prompt logic.
     - [x] Verify tests pass.
-- [x] **Task: Implement BSG Compliance Command** [5191bed]
-    - [x] Write failing tests for `bank-sdlc:bsg:check-compliance`.
-    - [x] Implement command logic using BSG skill and RBI database.
-    - [x] Verify tests pass.
-- [x] **Task: Conductor - User Manual Verification 'Product and BSG Commands' (Protocol in workflow.md)**
+- [~] **Task: Implement BSG Compliance Command**
+    - [ ] Write failing tests for `commands/bsg/check-compliance.toml`.
+    - [ ] Create `commands/bsg/check-compliance.toml` with RBI-aware prompt logic.
+    - [ ] Verify tests pass.
+- [ ] **Task: Conductor - User Manual Verification 'Product and BSG Commands' (Protocol in workflow.md)**
 
 ## Phase 2: Architecture and Engineering Commands
-- [x] **Task: Implement Architecture Solution Command** [75e81c0]
-    - [x] Write failing tests for `bank-sdlc:arch:propose-solution`.
-    - [x] Implement command logic using Architecture skill.
-    - [x] Verify tests pass.
-- [~] **Task: Implement Engineering Security Review Command**
-    - [ ] Write failing tests for `bank-sdlc:eng:review-security`.
-    - [ ] Implement command logic using Engineering skill.
+- [ ] **Task: Implement Architecture Solution Command**
+    - [ ] Write failing tests for `commands/arch/propose-solution.toml`.
+    - [ ] Create `commands/arch/propose-solution.toml` with RBI-aware prompt logic.
+    - [ ] Verify tests pass.
+- [ ] **Task: Implement Engineering Security Review Command**
+    - [ ] Write failing tests for `commands/eng/review-security.toml`.
+    - [ ] Create `commands/eng/review-security.toml` with RBI-aware prompt logic.
     - [ ] Verify tests pass.
 - [ ] **Task: Conductor - User Manual Verification 'Architecture and Engineering Commands' (Protocol in workflow.md)**
 
 ## Phase 3: QA and Release Commands
 - [ ] **Task: Implement QA Test Generation Command**
-    - [ ] Write failing tests for `bank-sdlc:qa:generate-tests`.
-    - [ ] Implement command logic using QA skill.
+    - [ ] Write failing tests for `commands/qa/generate-tests.toml`.
+    - [ ] Create `commands/qa/generate-tests.toml` with RBI-aware prompt logic.
     - [ ] Verify tests pass.
 - [ ] **Task: Implement Release Exit Strategy Command**
-    - [ ] Write failing tests for `bank-sdlc:release:check-exit-strategy`.
-    - [ ] Implement command logic using Release Engineering skill.
+    - [ ] Write failing tests for `commands/release/check-exit-strategy.toml`.
+    - [ ] Create `commands/release/check-exit-strategy.toml` with RBI-aware prompt logic.
     - [ ] Verify tests pass.
 - [ ] **Task: Conductor - User Manual Verification 'QA and Release Commands' (Protocol in workflow.md)**
+
 
 ## Phase 4: Manifest Registration and Integration
 - [ ] **Task: Register Commands in Manifest**
