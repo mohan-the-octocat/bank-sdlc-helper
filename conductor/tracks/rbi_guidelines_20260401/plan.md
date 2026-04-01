@@ -21,9 +21,9 @@
 - [x] **Task: Conductor - User Manual Verification 'Team-Specific Skill Integration' (Protocol in workflow.md)**
 
 ## Phase 3: Deliverable Generation
-- [ ] **Task: Create Compliance Checklists**
-    - [ ] Draft and save standalone checklist documents for SDLC phases.
-- [ ] **Task: Create Reference Documentation**
+- [x] **Task: Create Compliance Checklists** [d29b29c]
+    - [x] Draft and save standalone checklist documents for SDLC phases.
+- [~] **Task: Create Reference Documentation**
     - [ ] Draft and save a "Regulatory Quick Reference" document.
 - [ ] **Task: Conductor - User Manual Verification 'Deliverable Generation' (Protocol in workflow.md)**
 
